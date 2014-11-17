@@ -1,0 +1,39 @@
+{
+  "name": "ejs-extra",
+  "version": "0.0.1",
+  "description": "EJS templates with some modifications",
+  "main": "./lib/",
+  "author": {
+    "name": "Overlook Motel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/overlookmotel/ejs-extra.git"
+  },
+  "bugs": {
+    "url": "https://github.com/overlookmotel/ejs-extra/issues"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "2.0.x",
+    "chai": "1.9.x",
+    "chai-as-promised": "4.1.x",
+    "jshint": "2.5.x"
+  },
+  "keywords": [
+  ],
+  "scripts": {
+    "test": "make test"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "readmeFilename": "README.md",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/overlookmotel/ejs-extra/raw/master/License"
+    }
+  ]
+}
