@@ -14,11 +14,11 @@
     "url": "https://github.com/overlookmotel/ejs-extra/issues"
   },
   "dependencies": {
+    "ejs": "1.0.x"
   },
   "devDependencies": {
     "mocha": "2.0.x",
     "chai": "1.9.x",
-    "chai-as-promised": "4.1.x",
     "jshint": "2.5.x"
   },
   "keywords": [
