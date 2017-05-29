@@ -1,5 +1,7 @@
 # ejs-extra
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/overlookmotel/ejs-extra.svg)](https://greenkeeper.io/)
+
 # EJS templates with some modifications
 
 ## Current status
